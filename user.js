@@ -14,3 +14,4 @@ user_pref("mousewheel.with_shift.delta_multiplier_y", 600);
 user_pref("image.mem.max_decoded_image_kb", 512000);
 user_pref("image.mem.min_discard_timeout_ms", 2100000000);
 user_pref("nglayout.initialpaint.delay", 0);
+user_pref("browser.tabs.loadBookmarksInTabs", true);
